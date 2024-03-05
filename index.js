@@ -1,6 +1,6 @@
 let coountEl = document.getElementById("count-el")
 let saveEl = document.getAnimations("save-el")
-count = 0
+let count = 0
 
 function increment() {
     count = count + 1
